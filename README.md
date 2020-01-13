@@ -1,2 +1,18 @@
-# akedilok.github.io
-Blog Repo
+# Ake's Data Science Journey
+
+Allow me to introduce myself... my name is Ake Paramadilok and I am currently a data science student in the 12 week program at Metis.  Prior to this boot camp, had two other careers.  The first being an engineer at a well known children's toy company, where my titles included Product Development Engineer and Quality Assurance Engineer.  For my second career, I completed a Doctorate of Physical Therapy and practiced for just about 2 years in the outpatient orthopedic setting.  Throughout my time in these prior careers, I found myself always drawn to data and trying to find ways to optimize processes, identify patterns and advise decisions, even if they weren't part of my job description.  After coming to the realization that being a full-time physical therapist was not for me, I started to give more consideration to data science.
+
+Data science turned out to have many qualities that I find exciting in a career.  
+
+1. The ability to combine many types of knowledge (math, statistics, probability, coding, domain expertise) in order to produce meaningful and actionable insights.
+2. An abundance of job opportunities in a variety of fields that only seems to be growing. 
+3. Strong potential for growth within the field that is based mainly on merit rather than experience. 
+4. The opportunity to help others answer questions and solve problems in a impactful way.  
+
+So after filling out an application, taking a 5 hour entrance exam and passing a phone interview, I find myself sitting in a Metis classroom just 3 months after my initial interest in data science blossomed.  
+
+The first week was a tough one.  Apparently, it is THE toughest one, according to our instructors.  We were immediately thrown into paired programming challenges, lectures on python, pandas, matplotlib, seaborn, github and git and command line programming.  Sounds like a lot, and it was but the instructors did a good job of helping us through it and their lectures were well crafted with minimal fluff to distract you from the important aspects of the material.  I'd say the most stressful part of class was trying to get your computer set up on github correctly but that eventually came around.  
+
+In addition to the classroom work, we were also asigned our very first project, which was to be completed in as a group by the end of the first week.  The project gave us our first exposure to exploratory data analysis using NYC MTA datasets.  I was paired with two other students, each of us with very diverse backgrounds.  One was a former actor/tech recruiter, the other an actuarial consultant and I the engineer/PT.  As different as we were on paper, it all went away when the project started because we were all excited about data science and our journey towards entering the field.  We actually worked together very nicely and were able to each fall into our strengths and provide quite meaningful contributions to the project.  Eventhough it was the first week, I found myself sleeping only about 4-5 hours a night.  I was staying up late trying to absorb the lectures and push foward on the project.  I realized that I am a bit slower at Python than others in the class so I was willing to put in the extra time to improve.  The good thing is that these long hours did not feel like work at all, but rather quite captivating and I felt intrinsically motivated to continue pushing on.  
+
+I will cover the project that we delivered in more detail in a future post but I wanted to share these initial thoughts on Metis so far.  Week one is in the books and overall, I have been impressed witht he caliber of my classmates, the curriculum and the instructors.  Excited to see what week two brings... Hopefully, some more sleep!  
